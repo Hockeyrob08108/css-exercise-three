@@ -13,6 +13,7 @@ body {
 
 .container {
   margin: 0 auto;
+  padding: 25px 0 0 0;
   width: 420px;
 }
 
@@ -35,6 +36,7 @@ nav {
 
 .arrow-left {
   float: left;
+
 }
 
 .restaurant-list {
@@ -42,6 +44,7 @@ nav {
   padding: 45px 0px 15px 0px;
   background-color: #ECECEC;
   width: 420px;
+
 
 }
 
@@ -54,13 +57,13 @@ nav {
 }
 
 .content {
+  display: inline-block;
   padding: 25px;
 
 }
 
 .arrow {
-  float:right;
+  float: right;
   padding-top: 35px;
   padding-right: 25px;
-
 }
